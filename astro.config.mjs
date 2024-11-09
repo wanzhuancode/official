@@ -6,7 +6,7 @@ import robotsTxt from 'astro-robots-txt';
 
 // https://astro.build/config
 export default defineConfig({
-  // base: '/offical', // Set a path prefix.
+  base: '/offical', // Set a path prefix.
   site: 'https://wanzhuancode.github.io/official', // Use to generate your sitemap and canonical URLs in your final build.
   // trailingSlash: 'always', // Use to always append '/' at end of url
   markdown: {
