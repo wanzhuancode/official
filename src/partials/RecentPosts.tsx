@@ -43,6 +43,55 @@ const RecentPosts = () => (
       className="mb-6 bg-gradient-to-br from-sky-500 to-sky-400 bg-clip-text text-2xl font-bold text-transparent"
       id="problem"
     >
+      课程目录
+    </div>
+
+    <div className="text-customGrayText flex flex-row flex-wrap gap-6">
+      <img
+        src="http://upload.cxycsx.vip/%E7%AE%80%E7%BA%A6%E6%89%8B%E7%BB%98%E9%A3%8E%E5%8F%8C%E5%8D%81%E4%B8%80%E8%B4%AD%E7%89%A9%E6%B8%85%E5%8D%95%E6%94%BB%E7%95%A5%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%85%8D%E5%9B%BE__2024-11-11+02_23_40.png"
+        alt=""
+        width="311"
+        height="415"
+      />
+      <img
+        src="http://upload.cxycsx.vip/%E7%AE%80%E7%BA%A6%E6%89%8B%E7%BB%98%E9%A3%8E%E5%8F%8C%E5%8D%81%E4%B8%80%E8%B4%AD%E7%89%A9%E6%B8%85%E5%8D%95%E6%94%BB%E7%95%A5%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%85%8D%E5%9B%BE__2024-11-11+02_22_59.png"
+        alt=""
+        width="311"
+        height="415"
+      />
+      <img
+        src="http://upload.cxycsx.vip/%E7%AE%80%E7%BA%A6%E6%89%8B%E7%BB%98%E9%A3%8E%E5%8F%8C%E5%8D%81%E4%B8%80%E8%B4%AD%E7%89%A9%E6%B8%85%E5%8D%95%E6%94%BB%E7%95%A5%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%85%8D%E5%9B%BE__2024-11-11+02_21_48.png"
+        alt=""
+        width="311"
+        height="415"
+      />
+      <img
+        src="http://upload.cxycsx.vip/%E7%AE%80%E7%BA%A6%E6%89%8B%E7%BB%98%E9%A3%8E%E5%8F%8C%E5%8D%81%E4%B8%80%E8%B4%AD%E7%89%A9%E6%B8%85%E5%8D%95%E6%94%BB%E7%95%A5%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%85%8D%E5%9B%BE__2024-11-11+02_21_21.png"
+        alt=""
+        width="311"
+        height="415"
+      />
+
+      <img
+        src="http://upload.cxycsx.vip/%E7%AE%80%E7%BA%A6%E6%89%8B%E7%BB%98%E9%A3%8E%E5%8F%8C%E5%8D%81%E4%B8%80%E8%B4%AD%E7%89%A9%E6%B8%85%E5%8D%95%E6%94%BB%E7%95%A5%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%85%8D%E5%9B%BE__2024-11-11+02_20_36.png"
+        alt=""
+        width="311"
+        height="415"
+      />
+
+      <img
+        src="http://upload.cxycsx.vip/%E7%AE%80%E7%BA%A6%E6%89%8B%E7%BB%98%E9%A3%8E%E5%8F%8C%E5%8D%81%E4%B8%80%E8%B4%AD%E7%89%A9%E6%B8%85%E5%8D%95%E6%94%BB%E7%95%A5%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%85%8D%E5%9B%BE__2024-11-11+02_19_44.png"
+        alt=""
+        width="311"
+        height="415"
+      />
+    </div>
+
+    <div
+      className="mb-6 bg-gradient-to-br from-sky-500 to-sky-400 bg-clip-text text-2xl font-bold text-transparent"
+      id="problem"
+      style={{ marginTop: '30px' }}
+    >
       常见问题
     </div>
     <div className="text-customGrayText flex flex-col gap-4">
