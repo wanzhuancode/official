@@ -1,11 +1,13 @@
 import {
-  GradientText,
-  Newsletter,
+  // GradientText,
+  // Newsletter,
   Section,
 } from 'astro-boilerplate-components';
 
 const CTA = () => (
   <Section>
+    <div></div>
+
     {/* <Newsletter
       title={
         <>
