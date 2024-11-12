@@ -97,13 +97,14 @@ const RecentPosts = () => (
     <div
       className="mb-6 bg-gradient-to-br from-sky-500 to-sky-400 bg-clip-text text-2xl font-bold text-transparent"
       id="problem"
+      style={{ marginTop: '30px' }}
     >
-      Python网络爬虫数据采集课程
+      Python爬虫数据采集VIP课程（赠送, 2024版最新录制）
     </div>
 
     <div className="text-customGrayText flex flex-row flex-wrap gap-6">
       <img
-        src="http://upload.cxycsx.vip/%E7%98%A6%E8%BA%AB%E7%9F%A5%E8%AF%86%E7%A7%91%E6%99%AE%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%85%8D%E5%9B%BE__2024-11-12+20_36_23.jpg"
+        src="http://upload.cxycsx.vip/%E7%98%A6%E8%BA%AB%E7%9F%A5%E8%AF%86%E7%A7%91%E6%99%AE%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%85%8D%E5%9B%BE__2024-11-12+20_32_55.png"
         alt=""
         width="311"
         height="415"
