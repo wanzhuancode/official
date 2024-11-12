@@ -7,7 +7,6 @@ import {
 const CTA = () => (
   <Section>
     <div></div>
-
     {/* <Newsletter
       title={
         <>
