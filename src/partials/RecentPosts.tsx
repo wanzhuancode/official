@@ -85,6 +85,13 @@ const RecentPosts = () => (
         width="311"
         height="415"
       />
+
+      <img
+        src="http://upload.cxycsx.vip/%E7%AE%80%E7%BA%A6%E6%89%8B%E7%BB%98%E9%A3%8E%E5%8F%8C%E5%8D%81%E4%B8%80%E8%B4%AD%E7%89%A9%E6%B8%85%E5%8D%95%E6%94%BB%E7%95%A5%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%85%8D%E5%9B%BE__2024-11-12+20_15_43.png"
+        alt=""
+        width="311"
+        height="415"
+      />
     </div>
 
     <div
