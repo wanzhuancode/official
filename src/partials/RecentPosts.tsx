@@ -182,7 +182,9 @@ const RecentPosts = () => (
         问: 学完这套课程，能达到什么样的水平？
       </h1>
       <p className="">
-        答: 能够达到兼职接单水平，课程实战包含真实JS逆向实战接单案例
+        答:
+        能够达到兼职接单水平，课程实战包含真实JS逆向实战接单案例。这门课程虽不敢说让你直接成为大神。但是达到初中级水平是没问题的
+        并且适合零基础入门JS逆向, 整套课程没有一点车轱辘话 都是实战。
       </p>
 
       <h1 className="bg-gradient-to-br from-gray-500 to-gray-400 bg-clip-text text-lg font-bold text-transparent">
