@@ -42,7 +42,7 @@ const Hero = () => (
               5.双十一限时特惠（赠送价值199Python爬虫数据采集VIP课程）这套课程已经上架B站
             </p>
             <h1
-              className="rounded-md bg-sky-400 px-2 py-1 text-lg font-semibold text-sky-900"
+              className="rounded-md bg-fuchsia-400 px-2 py-1 text-lg font-semibold text-fuchsia-900"
               style={{ width: 90 }}
             >
               适合人群
@@ -57,7 +57,10 @@ const Hero = () => (
             >
               课程售价
             </h1>
-            <p>¥1999元 </p>
+            <div className="flex items-center gap-3">
+              <span className="text-xl font-bold text-red-500">¥1999</span>
+              <span className="text-gray-500 line-through">¥2499</span>
+            </div>
             {/* <p >双十一优惠价899（截至日期: 2024.11.11 23:59:59）</p> */}
 
             <h1
