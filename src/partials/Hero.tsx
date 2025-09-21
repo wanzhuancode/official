@@ -58,8 +58,8 @@ const Hero = () => (
               课程售价
             </h1>
             <div className="flex items-center gap-3">
-              <span className="text-xl font-bold text-red-500">¥1999</span>
-              <span className="text-gray-500 line-through">¥2499</span>
+              <span className="text-xl font-bold text-red-500">¥1299</span>
+              <span className="text-gray-500 line-through">¥1999</span>
             </div>
             {/* <p >双十一优惠价899（截至日期: 2024.11.11 23:59:59）</p> */}
             <h1
