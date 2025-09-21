@@ -65,7 +65,7 @@ const RecentPosts = () => (
       className="mb-6 bg-gradient-to-br from-sky-500 to-sky-400 bg-clip-text text-2xl font-bold text-transparent"
       id="problem"
     >
-      课程目录
+      课程目录（只列出一部分）
     </div>
 
     <div className="text-customGrayText flex flex-row flex-wrap gap-6">
@@ -121,7 +121,7 @@ const RecentPosts = () => (
       id="problem"
       style={{ marginTop: '30px' }}
     >
-      Python爬虫数据采集VIP课程（赠送, 最新录制）
+      Python爬虫数据采集VIP课程（赠送, 陈师兄最新录制, 85节全集）
     </div>
 
     <div className="text-customGrayText flex flex-row flex-wrap gap-6">
@@ -221,7 +221,7 @@ const RecentPosts = () => (
       </h1>
       <p className="">
         答: 目前已经更新逆向视频400+节视频 每个视频在10分钟左右,
-        包含基础+实战+进阶, 包含大量实战案例 如dy、xhs、jd等
+        包含基础+实战+进阶, 包含大量实战案例 如dy、xhs、jd、zh等
       </p>
 
       <h1 className="bg-gradient-to-br from-gray-500 to-gray-400 bg-clip-text text-lg font-bold text-transparent">
