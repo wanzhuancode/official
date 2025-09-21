@@ -4,7 +4,7 @@ import { Section } from 'astro-boilerplate-components';
 
 const Footer = () => (
   <Section>
-    {/* <FooterCopyright site_name={AppConfig.site_name} /> */}© Copyright 2024
+    {/* <FooterCopyright site_name={AppConfig.site_name} /> */}© Copyright 2025
     玩转Code 程序员陈师兄
   </Section>
 );
