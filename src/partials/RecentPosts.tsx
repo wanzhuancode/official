@@ -22,7 +22,7 @@ const RecentPosts = () => (
       className="mb-6 bg-gradient-to-br from-sky-500 to-sky-400 bg-clip-text text-2xl font-bold text-transparent"
       id="cxycsx"
     >
-      程序员陈师兄
+      程序员陈师兄简介
     </div>
 
     <div className="text-customGrayText flex flex-col gap-3">
