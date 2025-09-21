@@ -33,7 +33,6 @@ const Navbar = () => (
       </a>
       <NavMenu>
         <NavMenuItem href="/">首页</NavMenuItem>
-        <NavMenuItem href="#cxycsx">程序员陈师兄</NavMenuItem>
         <NavMenuItem href="https://space.bilibili.com/3546776132913611" target="_blank">B站</NavMenuItem>
         <NavMenuItem href="http://upload.cxycsx.vip/a1cd99e6b709dc95f44abd520ad5d75.jpg" target="_blank">联系陈师兄</NavMenuItem>
       </NavMenu>
