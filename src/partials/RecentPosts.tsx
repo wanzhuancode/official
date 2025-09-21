@@ -121,7 +121,7 @@ const RecentPosts = () => (
       id="problem"
       style={{ marginTop: '30px' }}
     >
-      Python爬虫数据采集VIP课程（赠送, 2024版最新录制）
+      Python爬虫数据采集VIP课程（赠送, 最新录制）
     </div>
 
     <div className="text-customGrayText flex flex-row flex-wrap gap-6">
