@@ -34,11 +34,8 @@ const Navbar = () => (
       <NavMenu>
         <NavMenuItem href="/">首页</NavMenuItem>
         <NavMenuItem href="#cxycsx">程序员陈师兄</NavMenuItem>
-        {/* <NavMenuItem href="/">JS逆向实战</NavMenuItem> */}
-        <NavMenuItem href="https://space.bilibili.com/409871996" target="_blank">B站</NavMenuItem>
-        <NavMenuItem href="#problem">常见问题</NavMenuItem>
-        <NavMenuItem href="http://upload.cxycsx.vip/a1cd99e6b709dc95f44abd520ad5d75.jpg" target="_blank">联系我</NavMenuItem>
-        <NavMenuItem href="https://www.yuque.com/cxycsx/vkov7g/nxcxu9hec8v8pfwn?singleDoc">IDEA/Pycharm激活码</NavMenuItem>
+        <NavMenuItem href="https://space.bilibili.com/3546776132913611" target="_blank">B站</NavMenuItem>
+        <NavMenuItem href="http://upload.cxycsx.vip/a1cd99e6b709dc95f44abd520ad5d75.jpg" target="_blank">联系陈师兄</NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
   </Section>
